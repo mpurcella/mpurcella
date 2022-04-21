@@ -1,7 +1,7 @@
 Hi 👋 My name is Michael
 ========================
 
-Web Developer
+Front-end Web Developer
 -------------
 
 * 🌍  I'm based in Portland, OR

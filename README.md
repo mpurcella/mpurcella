@@ -4,7 +4,7 @@ Hi 👋 My name is Michael
 Front-end Web Developer
 -----------------------
 
-New to front-end web development and loving every minute of it.
+New-ish to front-end web development and loving every minute of it.
 
 * 🌍  I'm based in Portland, OR
 * ✉️  You can contact me at [mjpurcella@gmail.com](mailto:mjpurcella@gmail.com)

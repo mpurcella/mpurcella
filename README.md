@@ -8,8 +8,8 @@ New-ish to front-end web development and loving every minute of it.
 
 * 🌍  I'm based in Portland, OR
 * ✉️  You can contact me at [mjpurcella@gmail.com](mailto:mjpurcella@gmail.com)
-* 🤝  I'm open to collaborating on any project that I can positively contribute to!
-* ⚡  Neon color-palette power user.
+* 🤝  I'm open to collaborating on any project that I can positively contribute to
+* ⚡  Neon color-palette power user
 
 ### Skills
 

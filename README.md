@@ -1,45 +1,23 @@
-Hi 👋 My name is Michael
-========================
+### Hi there 👋, my name is Mike
+#### I'm a junior front-end web developer
+![I'm a junior front-end web developer](https://github.com/mpurcella/gh-banner/gh-banner.png)
 
-Front-end Web Developer
------------------------
+I strive to build interfaces that bring true measurable results to end-users.
 
-New-ish to front-end web development and loving every minute of it.
+Self-proclaimed neon color palette power user.
 
-* 🌍  I'm based in Portland, OR
-* ✉️  You can contact me at [mjpurcella@gmail.com](mailto:mjpurcella@gmail.com)
-* 🤝  I'm open to collaborating on any project that I can positively contribute to
-* ⚡  Neon color-palette power user
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+Skills: HTML / CSS / SCSS / Bootstrap / JavaScript / jQuery / React
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/mpurcella" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mpurcella" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mpurcella)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mpurcella/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mpurcella/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mikepurcella.com)  
 
-### Badges
+[![trophy](https://github-profile-trophy.vercel.app/?username=mpurcella)](https://github.com/ryo-ma/github-profile-trophy)
 
-<b>My GitHub Stats</b>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpurcella)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/mpurcella"><img src="https://github-readme-stats.vercel.app/api?username=mpurcella&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mpurcella's GitHub stats" /></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mpurcella&show_icons=true)  
 
-<a href="https://github.com/mpurcella" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpurcella&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mpurcella)  
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/mpurcella/artist-page-v2-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mpurcella&repo=artist-page-v2-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mpurcella/jukebox-monkey" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mpurcella&repo=jukebox-monkey&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/mpurcella/simple-todo-list-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mpurcella&repo=simple-todo-list-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mpurcella/fetching-images-from-search-react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mpurcella&repo=fetching-images-from-search-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+![Profile views](https://gpvc.arturio.dev/mpurcella)  

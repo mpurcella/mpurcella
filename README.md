@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Mike
+Hi 👋
 
-I'm a passionate front-end web developer that strives to build interfaces that bring true measurable results to end-users.<br><br>...Also a self-proclaimed neon color palette power user.
+I'm Mike, a passionate front-end web developer that strives to build interfaces that bring true measurable results to end-users.<br><br>...Also a self-proclaimed neon color palette power user.
 
 
 ## 🌐 Socials:

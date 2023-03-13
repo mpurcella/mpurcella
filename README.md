@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋<br><br>I'm Mike, a passionate front-end web developer that strives to build interfaces that bring true measurable results to end-users.<br><br>...Also a self-proclaimed neon color palette power user.
 
-View my portfolio at [mikepurcell.com](https://www.mikepurcella.com).
+View my portfolio at [mikepurcella.com](https://www.mikepurcella.com).
 
 
 ## 🌐 Socials:
